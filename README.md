@@ -1,6 +1,6 @@
 # 2019-DBWEB-Team-Project
 
-Database application (web) project
+### Database application project: Web Development
 
 ![image-1](https://github.com/givitallugot/2019-DBWEB-Team-Project/blob/master/Image/slide1.jpg)
 
